@@ -14,8 +14,8 @@
   - Clone this project
   - Give following command:
 
-      ```npm i```
-      ```npm test```
+      -```npm i```
+      -```npm test```
 
 ## dmoney API Documentation
 https://documenter.getpostman.com/view/29168407/2s9Y5YTNgf
