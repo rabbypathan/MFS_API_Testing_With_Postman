@@ -1,7 +1,7 @@
 # dmoney API Testing With Postman
 
 ## About this project
-### This is a API testing demo project where I try to test an API(dmoney) which is an Mobile Financial Services (MFS) like Bkash/Nagad.In this project I have done all tests manually and write test cases which cover all the feature of this API. After that I have automate the dmoney API using Postman and Newman.
+#### This is a API testing demo project where I try to test an API(dmoney) which is an Mobile Financial Services (MFS) like Bkash/Nagad.In this project I have done all tests manually and write test cases which cover all the feature of this API. After that I have automate the dmoney API using Postman and Newman.
 
 ## Tools & Technology Used
 - Postman
@@ -31,9 +31,6 @@ https://docs.google.com/spreadsheets/d/1ixJhjE8g-eCjGCUXJEW0JBLKJe5ShLM8eWTgILEJ
 ![newman_console_report](https://github.com/rabbypathan/dmoney_API_Testing_With_Postman/assets/70917088/2b95ab8c-ad9b-4c6a-8d5a-98763fe6ef5f)
 
 ## Newman Report
-file:///D:/SQA/d_money_postman/Reports/report.html
-
-### Newman Report Screenshot
 ![screencapture-file-D-SQA-d-money-postman-Reports-report-html-2023-08-28-13_05_29](https://github.com/rabbypathan/dmoney_API_Testing_With_Postman/assets/70917088/d1c80bb7-4948-4b09-a06b-bb311906894c)
 
 
